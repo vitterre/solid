@@ -8,3 +8,9 @@
 5.	**DIP**: Dependency Inversion Principle.
 
 Далее на каждом теге будет разобран определенный принцип с примерами нарушений и исправлений.
+
+[//]: # (![Uncle Bob]&#40;UncleBob.png&#41;)
+
+<p align="center">
+<img src="UncleBob.png" alt="Uncle Bob"/>
+</p>
